@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Bashora SQL Server Scripts4">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DOYOPB:DOYOPB\doyob">
+          <Created>2020-08-20T18:45:34.3776768+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DOYOPB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>COOPERATIVE SOCIETY SACCO</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="count for number of drivers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>count for number of drivers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="count querry for number of vehicle model.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>count querry for number of vehicle model.sql</FullPath>
+        </FileNode>
+        <FileNode Name="driver user querry.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>driver user querry.sql</FullPath>
+        </FileNode>
+        <FileNode Name="drivers-vehicle-accident report inner join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>drivers-vehicle-accident report inner join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="owner user querry.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>owner user querry.sql</FullPath>
+        </FileNode>
+        <FileNode Name="owner vehicle inner join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>owner vehicle inner join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sacco owner inner join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sacco owner inner join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sacco user querry.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sacco user querry.sql</FullPath>
+        </FileNode>
+        <FileNode Name="update querry for driver table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>update querry for driver table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="update querry for owner.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DOYOPB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DOYOPB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>update querry for owner.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
